@@ -1,2 +1,3 @@
-# fortune
-ドットインストール：JavaScriptでミニアプリを作ってみよう - おみくじ
+# omikuji
+ドットインストール：
+<br> JavaScriptでミニアプリを作ってみよう - おみくじ
