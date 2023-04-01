@@ -1,4 +1,5 @@
 'use strict'; //エラーの設定を厳密にする
+// practice changes
 
 {
     const btn = document.getElementById('btn');
